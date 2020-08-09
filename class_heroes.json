@@ -1,0 +1,70 @@
+{
+    "Class S" : {
+        "BLAST" : {
+            "jp_name" : "ブラスト",
+            "rank" : 1
+        },
+        "TERRIBLE TORNADO" : {
+            "jp_name" : "戦慄のタツマキ",
+            "rank" : 2
+        },
+        "SILVERFANG" : {
+            "jp_name" : "シルバーファング",
+            "rank" : 3
+        },
+        "ATOMIC SAMURAI" : {
+            "jp_name" : "アトミック侍",
+            "rank" : 4
+        },
+        "CHILD EMPEROR" : {
+            "jp_name" : "童帝",
+            "rank" : 5
+        }
+    },
+
+    "Class A" : {
+        "HANDSOME KAMEN AMAI MASK" : {
+            "jp_name" : "イケメン仮面アマイマスク",
+            "rank" : 1
+        },
+        "IAIRON" : {
+            "jp_name" : "イアイアン",
+            "rank" : 2
+        },
+        "OKAMA ITACHI" : {
+            "jp_name" : "オカマイタチ",
+            "rank" : 3
+        },
+        "BUSHI DRILL" : {
+            "jp_name" : "ブシドリル",
+            "rank" : 4
+        },
+        "HEAVY TANK LOINCLOTH" : {
+            "jp_name" : "重戦車フンドシ",
+            "rank" : 5
+        }
+    },
+
+    "Class B" : {
+        "HELLISH BLIZZARD" : {
+            "jp_name" : "地獄のフブキ",
+            "rank" : 1
+        },
+        "EYELASHES" : {
+            "jp_name" : "マツゲ",
+            "rank" : 2
+        },
+        "WILD MONKEY" : {
+            "jp_name" : "山猿",
+            "rank" : 3
+        },
+        "WILDHORN" : {
+            "jp_name" : "ワイルドホーン",
+            "rank" : 6
+        },
+        "SAITAMA" : {
+            "jp_name" : "サイタマ",
+            "rank" : 7
+        }
+    }
+}
